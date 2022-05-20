@@ -1,6 +1,6 @@
-module github.com/kris-nova/photoprism-client-go
+module github.com/tcassaert/photoprism-client-go/v1
 
-go 1.15
+go 1.18
 
 require (
 	github.com/fatih/color v1.10.0 // indirect
